@@ -9,19 +9,19 @@ description: >-
 
 ### Cheatsheets
 
-{% file src="../.gitbook/assets/importing-data-python-cheat-sheet.pdf" caption="Python - Importing Data Cheat Sheet" %}
+![Importing Data](../.gitbook/assets/importing-data-python-cheat-sheet-1.png)
 
-{% file src="../.gitbook/assets/pandas-cheat-sheet-for-data-science-in-python.pdf" caption="Pandas Cheat Sheet" %}
+![NumPy Basics](../.gitbook/assets/numpy-cheat-sheet-data-analysis-in-python-1.png)
 
-{% file src="../.gitbook/assets/numpy-cheat-sheet-data-analysis-in-python.pdf" caption="NumPy Cheat Sheet" %}
+![Pandas Basics](../.gitbook/assets/pandas-cheat-sheet-for-data-science-in-python-1.png)
 
-{% file src="../.gitbook/assets/matplotlib-cheat-sheet-plotting-in-python.pdf" caption="Mathplotlib Cheat Sheet" %}
+![Matplotlib](../.gitbook/assets/matplotlib-cheat-sheet-plotting-in-python-1.png)
 
 
 
-![](../.gitbook/assets/data-wrangling-1.jpeg)
+![Data Wrangling with pandas 1](../.gitbook/assets/data-wrangling-1.jpeg)
 
-![](../.gitbook/assets/data-wrangling-2.jpeg)
+![Data Wrangling with pandas 2](../.gitbook/assets/data-wrangling-2.jpeg)
 
 ### Books
 
