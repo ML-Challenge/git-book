@@ -7,6 +7,22 @@ description: >-
 
 # Resources
 
+### Cheatsheets
+
+{% file src="../.gitbook/assets/importing-data-python-cheat-sheet.pdf" caption="Python - Importing Data Cheat Sheet" %}
+
+{% file src="../.gitbook/assets/pandas-cheat-sheet-for-data-science-in-python.pdf" caption="Pandas Cheat Sheet" %}
+
+{% file src="../.gitbook/assets/numpy-cheat-sheet-data-analysis-in-python.pdf" caption="NumPy Cheat Sheet" %}
+
+{% file src="../.gitbook/assets/matplotlib-cheat-sheet-plotting-in-python.pdf" caption="Mathplotlib Cheat Sheet" %}
+
+
+
+![](../.gitbook/assets/data-wrangling-1.jpeg)
+
+![](../.gitbook/assets/data-wrangling-2.jpeg)
+
 ### Books
 
 {% embed url="https://www.goodreads.com/book/show/36313494-python-for-data-analysis?ac=1&from\_search=true&qid=KnlgnbQZ03&rank=1" %}
