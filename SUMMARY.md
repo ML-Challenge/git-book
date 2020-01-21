@@ -19,13 +19,13 @@
 
 ## 4. Supervised Learning with scikit-learn <a id="supervised-learning"></a>
 
-* [Untitled](supervised-learning/untitled.md)
+* [About](supervised-learning/about.md)
 
 ## 5. Unsupervised Learning <a id="unsupervised-learning"></a>
 
-* [Untitled](unsupervised-learning/untitled.md)
+* [About](unsupervised-learning/about.md)
 
 ## 6.Final project <a id="final-project"></a>
 
-* [Untitled](final-project/untitled.md)
+* [About](final-project/about.md)
 
