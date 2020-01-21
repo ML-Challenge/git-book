@@ -7,7 +7,15 @@ description: >-
 
 # Resources
 
-### Books
+### Cheatsheets
+
+{% file src="../.gitbook/assets/conda-cheatsheet.pdf" caption="Conda Cheatsheet" %}
+
+{% file src="../.gitbook/assets/python-for-data-science-cheat-sheet-for-beginners.pdf" caption="Python For Data Science Cheatsheet" %}
+
+{% file src="../.gitbook/assets/jupyter-notebook-cheat-sheet.pdf" caption="Jupyter Notebook Cheatsheet" %}
+
+Books
 
 {% embed url="https://www.goodreads.com/book/show/42439405-python-crash-course-2nd-edition?from\_search=true&qid=GlXbd58bLC&rank=1" caption="" %}
 
