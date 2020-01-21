@@ -23,8 +23,6 @@ description: >-
 
 ![Data Wrangling with pandas 2](../.gitbook/assets/data-wrangling-2.jpeg)
 
-{% file src="../.gitbook/assets/importing-data-python-cheat-sheet.pdf" %}
-
 ### Books
 
 {% embed url="https://www.goodreads.com/book/show/36313494-python-for-data-analysis?ac=1&from\_search=true&qid=KnlgnbQZ03&rank=1" %}
