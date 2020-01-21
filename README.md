@@ -2,7 +2,7 @@
 description: Machine Learning Challenge
 ---
 
-# About
+# Challenge Intro
 
 Learn the essential skills of a machine learning engineer. You’ll learn Python, how to process and visualize data, and how to perform supervised and unsupervised learning.
 

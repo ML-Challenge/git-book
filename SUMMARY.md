@@ -1,10 +1,10 @@
 # Table of contents
 
-* [About](README.md)
+* [Challenge Intro](README.md)
 
 ## 1.Python <a id="python"></a>
 
-* [About](python/about.md)
+* [Introduction](python/intro.md)
 * [Lessons](python/lessons.md)
 * [Exercises](python/exercises.md)
 * [Resources](python/resources.md)

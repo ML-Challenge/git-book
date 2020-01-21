@@ -1,4 +1,4 @@
-# About
+# Introduction
 
 Python is one of the most widely used programming languages in the industry. It's a powerful, general-purpose language with applications ranging from web development to data science.
 
