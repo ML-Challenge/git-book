@@ -15,7 +15,7 @@
 
 ## 3. Mathematics for Machine Learning <a id="math-stuff"></a>
 
-* [Untitled](math-stuff/untitled.md)
+* [About](math-stuff/about.md)
 
 ## 4. Supervised Learning with scikit-learn <a id="supervised-learning"></a>
 
