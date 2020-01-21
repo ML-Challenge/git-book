@@ -11,9 +11,9 @@ description: >-
 
 {% file src="../.gitbook/assets/conda-cheatsheet.pdf" caption="Conda Cheat Sheet" %}
 
-{% file src="../.gitbook/assets/python-for-data-science-cheat-sheet-for-beginners.pdf" caption="Python For Data Science Cheat Sheet" %}
+![Python Basics](../.gitbook/assets/python-for-data-science-cheat-sheet-for-beginners-1.png)
 
-{% file src="../.gitbook/assets/jupyter-notebook-cheat-sheet.pdf" caption="Jupyter Notebook Cheat Sheet" %}
+![Jupyter Notebook](../.gitbook/assets/jupyter-notebook-cheat-sheet-1.png)
 
 ### Books
 
