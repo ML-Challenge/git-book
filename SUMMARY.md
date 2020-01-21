@@ -11,21 +11,21 @@
 
 ## 2. Data Analysis and Visualisation <a id="data-analysis-and-visualisation"></a>
 
-* [About](data-analysis-and-visualisation/about.md)
+* [Introduction](data-analysis-and-visualisation/intro.md)
 
 ## 3. Mathematics for Machine Learning <a id="math-stuff"></a>
 
-* [About](math-stuff/about.md)
+* [Introduction](math-stuff/intro.md)
 
 ## 4. Supervised Learning with scikit-learn <a id="supervised-learning"></a>
 
-* [About](supervised-learning/about.md)
+* [Introduction](supervised-learning/intro.md)
 
 ## 5. Unsupervised Learning <a id="unsupervised-learning"></a>
 
-* [About](unsupervised-learning/about.md)
+* [Introduction](unsupervised-learning/intro.md)
 
 ## 6.Final project <a id="final-project"></a>
 
-* [About](final-project/about.md)
+* [Introduction](final-project/intro.md)
 
