@@ -43,8 +43,6 @@ description: >-
 
 {% embed url="https://www.youtube.com/watch?v=-Rf4fZDQ0yw&list=PLjgj6kdf\_snaw8QnlhK5f3DzFDFKDU5f4" %}
 
-
-
 ### Blogs
 
 {% embed url="http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/" %}
