@@ -33,7 +33,7 @@ description: >-
 
 ### MOOCs
 
-{% embed url="https://www.udacity.com/course/intro-to-data-analysis--ud170" caption="test" %}
+{% embed url="https://www.udacity.com/course/intro-to-data-analysis--ud170" caption="" %}
 
 {% embed url="https://www.udacity.com/course/intro-to-data-science--ud359" %}
 
