@@ -1,3 +1,7 @@
+---
+description: Based on the Kaggle Learn Python challenge
+---
+
 # Lessons
 
 ### 1. **Hello, Python**
