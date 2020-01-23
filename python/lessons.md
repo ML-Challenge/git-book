@@ -8,13 +8,23 @@
 
 {% embed url="https://github.com/ML-Challenge/week1-python/blob/master/L2\_Functions%20and%20Getting%20Help.ipynb" caption="calling functions and defining our own, and using Python\'s builtin documentation" %}
 
-\*\*\*\*
+### **3. Booleans and Conditionals**
 
+{% embed url="https://github.com/ML-Challenge/week1-python/blob/master/L3\_Booleans%20and%20Conditionals.ipynb" caption="using booleans for branching logic" %}
 
+### **4. Lists**
 
-1. **Booleans and Conditionals** - using booleans for branching logic
-2. **Lists** - lists and the things you can do with them. Includes indexing, slicing and mutating
-3. **Loops and List Comprehensions** - for and while loops, and a much-loved Python feature: list comprehensions
-4. **Strings and Dictionaries** - working with string and dictionaries, two fundamental Python data types
-5. **Working with External Libraries** - Imports, operator overloading, and survival tips for venturing into the world of external libraries.
+{% embed url="https://github.com/ML-Challenge/week1-python/blob/master/L4\_Lists.ipynb" caption="lists and the things you can do with them. Includes indexing, slicing and mutating" %}
+
+### **5. Loops and List Comprehensions**
+
+{% embed url="https://github.com/ML-Challenge/week1-python/blob/master/L5\_Loops%20and%20List%20Comprehensions.ipynb" caption="for and while loops, and a much-loved Python feature: list comprehensions" %}
+
+### **6. Strings and Dictionaries**
+
+{% embed url="https://github.com/ML-Challenge/week1-python/blob/master/L6\_Strings%20and%20Dictionaries.ipynb" caption="working with string and dictionaries, two fundamental Python data types" %}
+
+### **7. Working with External Libraries**
+
+{% embed url="https://github.com/ML-Challenge/week1-python/blob/master/L7\_Working%20with%20External%20Libraries.ipynb" caption="Imports, operator overloading, and survival tips for venturing into the world of external libraries." %}
 
