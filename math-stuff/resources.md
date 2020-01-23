@@ -9,21 +9,21 @@ description: >-
 
 ### Books
 
-{% embed url="https://sebastianraschka.com/resources/math-for-ml.html" %}
+{% embed url="https://sebastianraschka.com/resources/math-for-ml.html" caption="" %}
 
-{% embed url="https://www.deeplearningbook.org/contents/linear\_algebra.html" %}
+{% embed url="https://www.deeplearningbook.org/contents/linear\_algebra.html" caption="" %}
 
 ### MOOCs
 
-{% embed url="https://www.coursera.org/specializations/mathematics-machine-learning" %}
+{% embed url="https://www.coursera.org/specializations/mathematics-machine-learning" caption="" %}
+
+{% embed url="https://www.udacity.com/course/intro-to-descriptive-statistics--ud827" %}
+
+{% embed url="https://www.udacity.com/course/intro-to-inferential-statistics--ud201" %}
 
 ### Videos
 
-### Blogs
+{% embed url="https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE\_ab" caption="Essence of linear algebra" %}
 
-{% embed url="https://machinelearningmastery.com/linear-algebra-machine-learning/" %}
-
-
-
-
+{% embed url="https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr" caption="Essence of calculus" %}
 
