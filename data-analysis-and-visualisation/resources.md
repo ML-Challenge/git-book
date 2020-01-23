@@ -33,12 +33,6 @@ description: >-
 
 ### MOOCs
 
-{% embed url="https://www.udacity.com/course/intro-to-data-analysis--ud170" %}
-
-{% embed url="https://www.udacity.com/course/intro-to-data-science--ud359" %}
-
-{% embed url="https://www.udemy.com/course/data-analysis-with-pandas/" caption="Wait for the regular sells \(should be around 12€\)" %}
-
 ### Videos
 
 {% embed url="https://www.youtube.com/watch?v=-Rf4fZDQ0yw&list=PLjgj6kdf\_snaw8QnlhK5f3DzFDFKDU5f4" %}
