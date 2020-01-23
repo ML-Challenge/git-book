@@ -7,19 +7,19 @@ description: >-
 
 # Resources
 
-## Books
+### Books
 
 {% embed url="https://sebastianraschka.com/resources/math-for-ml.html" caption="" %}
 
 {% embed url="https://www.deeplearningbook.org/contents/linear\_algebra.html" caption="" %}
 
-## MOOCs
+### MOOCs
 
 {% embed url="https://www.coursera.org/specializations/mathematics-machine-learning" caption="" %}
 
-## Videos
+### Videos
 
-## Blogs
+{% embed url="https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE\_ab" caption="Essence of linear algebra" %}
 
-{% embed url="https://machinelearningmastery.com/linear-algebra-machine-learning/" caption="" %}
+{% embed url="https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr" caption="Essence of calculus" %}
 
