@@ -45,6 +45,10 @@ description: >-
 
 ### Videos
 
+{% embed url="https://www.youtube.com/watch?v=R9OHn5ZF4Uo" %}
+
+
+
 {% embed url="https://www.youtube.com/playlist?list=PLfYUBJiXbdtSyktd8A\_x0JNd6lxDcZE96" caption="fast.ai - Introduction to Machine Learning for Coders" %}
 
 ### Blogs
