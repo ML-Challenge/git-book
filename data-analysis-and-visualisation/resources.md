@@ -17,8 +17,6 @@ description: >-
 
 ![Matplotlib](../.gitbook/assets/matplotlib-cheat-sheet-plotting-in-python-1.png)
 
-
-
 ![Data Wrangling with pandas 1](../.gitbook/assets/data-wrangling-1.jpeg)
 
 ![Data Wrangling with pandas 2](../.gitbook/assets/data-wrangling-2.jpeg)
