@@ -17,9 +17,11 @@ description: >-
 
 {% embed url="https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning" %}
 
-
-
 ### Books
+
+{% embed url="https://www.goodreads.com/book/show/50415816-hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow" %}
+
+
 
 ### MOOCs
 
