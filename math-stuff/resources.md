@@ -11,6 +11,8 @@ description: >-
 
 {% file src="../.gitbook/assets/common\_derivatives\_integrals.pdf" caption="Common Derivatives and Integrals" %}
 
+![SciPy - Linear Algebra Cheat Sheet](../.gitbook/assets/scipy-cheat-sheet-linear-algebra-in-python.png)
+
 ### Books
 
 {% embed url="https://sebastianraschka.com/resources/math-for-ml.html" caption="" %}
