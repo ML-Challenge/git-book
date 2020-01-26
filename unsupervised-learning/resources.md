@@ -9,6 +9,8 @@ description: >-
 
 ### Cheatsheets
 
+{% embed url="https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-unsupervised-learning" %}
+
 ### Books
 
 ### MOOCs

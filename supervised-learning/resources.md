@@ -13,6 +13,12 @@ description: >-
 
 ![Scikit-Learn Cheat Sheet](../.gitbook/assets/scikit-learn-cheat-sheet-python-machine-learning.png)
 
+{% file src="../.gitbook/assets/machine-learning-performance-improvement-cheat-sheet.pdf" caption="ML Performance Improvement" %}
+
+{% embed url="https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning" %}
+
+
+
 ### Books
 
 ### MOOCs
