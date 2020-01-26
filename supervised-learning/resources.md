@@ -41,5 +41,15 @@ description: >-
 
 ### Videos
 
+{% embed url="https://www.youtube.com/playlist?list=PLfYUBJiXbdtSyktd8A\_x0JNd6lxDcZE96" caption="fast.ai - Introduction to Machine Learning for Coders" %}
+
 ### Blogs
+
+{% embed url="https://machinelearningmastery.com/" %}
+
+{% embed url="https://docs.microsoft.com/en-us/archive/blogs/machinelearning/" %}
+
+{% embed url="https://ai.googleblog.com/" %}
+
+{% embed url="https://www.fast.ai/" %}
 
