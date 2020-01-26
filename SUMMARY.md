@@ -28,14 +28,12 @@
 * [Introduction](unsupervised-learning/intro.md)
 * [Lessons](unsupervised-learning/lessons.md)
 * [Exercises](unsupervised-learning/exercises.md)
-* [Resources](unsupervised-learning/resources.md)
 
 ## 5.Data preprocessing and Hyperparameter Tuning <a id="preprocessing-and-tuning"></a>
 
 * [Introduction](preprocessing-and-tuning/intro.md)
 * [Lessons](preprocessing-and-tuning/lessons.md)
 * [Exercises](preprocessing-and-tuning/exercises.md)
-* [Resources](preprocessing-and-tuning/resources.md)
 
 ## 6.Final project <a id="final-project"></a>
 
