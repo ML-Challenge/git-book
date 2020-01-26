@@ -23,7 +23,7 @@
 * [Exercises](math-stuff/exercises.md)
 * [Resources](math-stuff/resources.md)
 
-## 4. Supervised Learning with scikit-learn <a id="supervised-learning"></a>
+## 4. Supervised Learning <a id="supervised-learning"></a>
 
 * [Introduction](supervised-learning/intro.md)
 * [Lessons](supervised-learning/lessons.md)
