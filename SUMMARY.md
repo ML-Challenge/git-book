@@ -2,13 +2,6 @@
 
 * [Challenge Intro](README.md)
 
-## \(Optional\) Mathematics for Machine Learning <a id="math-stuff"></a>
-
-* [Introduction](math-stuff/intro.md)
-* [Lessons](math-stuff/lessons.md)
-* [Exercises](math-stuff/exercises.md)
-* [Resources](math-stuff/resources.md)
-
 ## 1.Python <a id="python"></a>
 
 * [Introduction](python/intro.md)
@@ -47,4 +40,11 @@
 ## 6.Final project <a id="final-project"></a>
 
 * [Introduction](final-project/intro.md)
+
+## \(Optional\) Mathematics for Machine Learning <a id="math-stuff"></a>
+
+* [Introduction](math-stuff/intro.md)
+* [Lessons](math-stuff/lessons.md)
+* [Exercises](math-stuff/exercises.md)
+* [Resources](math-stuff/resources.md)
 
