@@ -21,7 +21,9 @@ description: >-
 
 {% embed url="https://www.goodreads.com/book/show/50415816-hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow" %}
 
+{% embed url="https://www.goodreads.com/book/show/24346909-introduction-to-machine-learning-with-python" %}
 
+{% embed url="https://www.goodreads.com/book/show/43190851-the-hundred-page-machine-learning-book" %}
 
 ### MOOCs
 
