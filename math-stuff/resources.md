@@ -7,6 +7,10 @@ description: >-
 
 # Resources
 
+### Cheatsheets
+
+{% file src="../.gitbook/assets/common\_derivatives\_integrals.pdf" caption="Common Derivatives and Integrals" %}
+
 ### Books
 
 {% embed url="https://sebastianraschka.com/resources/math-for-ml.html" caption="" %}
