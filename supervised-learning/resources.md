@@ -27,6 +27,18 @@ description: >-
 
 ### MOOCs
 
+{% embed url="https://www.coursera.org/learn/machine-learning" %}
+
+{% embed url="https://www.udacity.com/course/intro-to-machine-learning--ud120" %}
+
+{% embed url="https://www.datacamp.com/tracks/machine-learning-scientist-with-python" %}
+
+{% embed url="https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230" %}
+
+{% embed url="https://www.udacity.com/course/intro-to-machine-learning-nanodegree--nd229" %}
+
+{% embed url="https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t" %}
+
 ### Videos
 
 ### Blogs
