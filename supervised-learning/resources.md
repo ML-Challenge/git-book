@@ -9,6 +9,10 @@ description: >-
 
 ### Cheatsheets
 
+![scikit-learn Algorithms](../.gitbook/assets/machine-learning-scikit-learn-algorithm.png)
+
+![Scikit-Learn Cheat Sheet](../.gitbook/assets/scikit-learn-cheat-sheet-python-machine-learning.png)
+
 ### Books
 
 ### MOOCs
