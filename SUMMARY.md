@@ -46,3 +46,7 @@
 * [Exercises](math-stuff/exercises.md)
 * [Resources](math-stuff/resources.md)
 
+## \(Optional\) The Edge of A.I. <a id="edge-of-ai"></a>
+
+* [Videos](edge-of-ai/videos.md)
+
