@@ -35,9 +35,11 @@
 * [Lessons](preprocessing-and-tuning/lessons.md)
 * [Exercises](preprocessing-and-tuning/exercises.md)
 
+<!--
 ## 6.Final project <a id="final-project"></a>
 
 * [Introduction](final-project/intro.md)
+-->
 
 ## \(Optional\) Mathematics for Machine Learning <a id="math-stuff"></a>
 
