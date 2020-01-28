@@ -10,5 +10,5 @@ Lessons:
 
 1. **NumPy** - NumPy is a fundamental Python package to efficiently practice data science. In this lesson you will learn to work with such powerful tools as the NumPy array, and get started with data exploration.
 2. **matplotlib** - With matplotlib, you can create a bunch of different plots in Python
-3. **pands** - We use pandas to import, inspect and manipulate a variety of datasets,
+3. **pands** - We use pandas to import, inspect and manipulate a variety of datasets
 
