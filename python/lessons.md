@@ -4,7 +4,7 @@ description: Based on the Kaggle Learn Python challenge
 
 # Lessons
 
-## 1. **Hello, Python**
+### 1. **Hello, Python**
 
 {% embed url="https://github.com/ML-Challenge/week1-python/blob/master/L1\_Syntax%2C%20Variables%2C%20and%20Numbers.ipynb" caption="a quick introduction to Python syntax, variable assignment, and numbers" %}
 
