@@ -14,9 +14,13 @@ description: Based on the Kaggle Learn Python challenge
 
 {% embed url="https://github.com/ML-Challenge/week1-python/blob/master/L2\_Functions%20and%20Getting%20Help.ipynb" caption="calling functions and defining our own, and using Python\'s builtin documentation" %}
 
+[Open with Google Colab](https://colab.research.google.com/github/ML-Challenge/week1-python/blob/master/L2_Functions%20and%20Getting%20Help.ipynb)
+
 ### **3. Booleans and Conditionals**
 
 {% embed url="https://github.com/ML-Challenge/week1-python/blob/master/L3\_Booleans%20and%20Conditionals.ipynb" caption="using booleans for branching logic" %}
+
+[Open with Google Colab](https://colab.research.google.com/github/ML-Challenge/week1-python/blob/master/L3_Booleans%20and%20Conditionals.ipynb)
 
 ### **4. Lists**
 
