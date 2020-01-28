@@ -8,6 +8,8 @@ description: Based on the Kaggle Learn Python challenge
 
 {% embed url="https://github.com/ML-Challenge/week1-python/blob/master/L1\_Syntax%2C%20Variables%2C%20and%20Numbers.ipynb" caption="a quick introduction to Python syntax, variable assignment, and numbers" %}
 
+[Open with Google Colab](https://colab.research.google.com/github/ML-Challenge/week1-python/blob/master/L1_Syntax%2C%20Variables%2C%20and%20Numbers.ipynb)
+
 ### **2. Functions and Getting Help**
 
 {% embed url="https://github.com/ML-Challenge/week1-python/blob/master/L2\_Functions%20and%20Getting%20Help.ipynb" caption="calling functions and defining our own, and using Python\'s builtin documentation" %}
