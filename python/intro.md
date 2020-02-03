@@ -14,5 +14,5 @@ Lessons:
 6. **Strings and Dictionaries** - working with string and dictionaries, two fundamental Python data types
 7. **Working with External Libraries** - Imports, operator overloading, and survival tips for venturing into the world of external libraries.
 
-[Open with Google Colab](https://colab.research.google.com/github/ML-Challenge/week1-python/blob/master/Learning%20Python.ipynb)
+
 
