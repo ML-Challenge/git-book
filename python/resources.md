@@ -45,5 +45,5 @@ description: >-
 
 {% embed url="https://realpython.com/" %}
 
-
+{% embed url="https://github.com/ML-Challenge/week1-python/blob/master/Learning%20Python.ipynb" %}
 
