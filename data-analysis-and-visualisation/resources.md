@@ -39,6 +39,10 @@ description: >-
 
 {% embed url="https://www.udemy.com/course/data-analysis-with-pandas/" caption="Wait for the regular sells \(should be around 12€\)" %}
 
+{% embed url="https://www.kaggle.com/learn/pandas" %}
+
+{% embed url="https://www.kaggle.com/learn/data-visualization" %}
+
 ### Videos
 
 {% embed url="https://www.youtube.com/watch?v=-Rf4fZDQ0yw&list=PLjgj6kdf\_snaw8QnlhK5f3DzFDFKDU5f4" %}

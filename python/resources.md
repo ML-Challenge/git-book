@@ -33,6 +33,8 @@ description: >-
 
 {% embed url="https://www.udacity.com/course/introduction-to-python--ud1110" %}
 
+{% embed url="https://www.kaggle.com/learn/python" %}
+
 ### Blogs
 
 {% embed url="https://planetpython.org/" %}
