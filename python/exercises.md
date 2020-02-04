@@ -30,19 +30,19 @@ description: Based on the Kaggle Learn Python challenge
 
 ### **5. Loops and List Comprehensions**
 
-{% embed url="https://github.com/ML-Challenge/week1-python/blob/master/L5\_Loops%20and%20List%20Comprehensions.ipynb" caption="Exercises for Lesson 5" %}
+{% embed url="https://github.com/ML-Challenge/week1-python/blob/master/Ex5\_Loops%20and%20List%20Comprehensions.ipynb" %}
 
 [Open with Google Colab](https://colab.research.google.com/github/ML-Challenge/week1-python/blob/master/Ex5_Loops%20and%20List%20Comprehensions.ipynb)
 
 ### **6. Strings and Dictionaries**
 
-{% embed url="https://github.com/ML-Challenge/week1-python/blob/master/L6\_Strings%20and%20Dictionaries.ipynb" caption="Exercises for Lesson 6" %}
+{% embed url="https://github.com/ML-Challenge/week1-python/blob/master/Ex6\_Strings%20and%20Dictionaries.ipynb" caption="Exercises for Lesson 6" %}
 
 [Open with Google Colab](https://colab.research.google.com/github/ML-Challenge/week1-python/blob/master/Ex6_Strings%20and%20Dictionaries.ipynb)
 
 ### **7. Working with External Libraries**
 
-{% embed url="https://github.com/ML-Challenge/week1-python/blob/master/L7\_Working%20with%20External%20Libraries.ipynb" caption="Exercises for Lesson 7" %}
+{% embed url="https://github.com/ML-Challenge/week1-python/blob/master/Ex7\_Working%20with%20External%20Libraries.ipynb" caption="Exercises for Lesson 7" %}
 
 [Open with Google Colab](https://colab.research.google.com/github/ML-Challenge/week1-python/blob/master/Ex7_Working%20with%20External%20Libraries.ipynb)
 
