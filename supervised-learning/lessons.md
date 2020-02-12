@@ -1,7 +1,3 @@
----
-description: In training....
----
-
 # Lessons
 
 ### 1.Classification

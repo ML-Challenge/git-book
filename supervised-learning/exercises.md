@@ -1,7 +1,3 @@
----
-description: In training....
----
-
 # Exercises
 
 There are no guided exercises this week; instead, we ask you to do the de following:
