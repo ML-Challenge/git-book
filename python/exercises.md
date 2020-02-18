@@ -6,10 +6,6 @@ description: Based on the Kaggle Learn Python challenge
 
 ### 1. **Hello, Python**
 
-{% hint style="warning" %}
-Test
-{% endhint %}
-
 {% embed url="https://github.com/ML-Challenge/week1-python/blob/master/Ex1\_Syntax%2C%20Variables%2C%20and%20Numbers.ipynb" caption="Exercises for Lesson 1" %}
 
 [Open with Google Colab](https://colab.research.google.com/github/ML-Challenge/week1-python/blob/master/Ex1_Syntax%2C%20Variables%2C%20and%20Numbers.ipynb)
