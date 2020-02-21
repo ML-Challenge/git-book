@@ -1,7 +1,3 @@
----
-description: In training....
----
-
 # Lessons
 
 ### **Clustering for dataset exploration** <a id="blob-path"></a>
