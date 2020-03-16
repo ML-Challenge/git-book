@@ -44,6 +44,16 @@ description: Here are our experiments
 
 {% embed url="https://github.com/ML-Challenge/week6-final-project/blob/master/10.Inspired%20-%20XGBoostClassifier%20\(GridSearch%20Optimization\)%20-%20AUC%200.8803.ipynb" caption="Preprocessing step inspired from the winners" %}
 
+### **11. XGBoostClassifier \(Bayesian Optimization\) - AUC 0.87935**
+
+{% embed url="https://github.com/ML-Challenge/week6-final-project/blob/master/11.Inspired%20-%20XGBoostClassifier%20\(Bayesian%20Optimization\)%20-%20AUC%200.87935.ipynb" caption="Preprocessing step inspired from the winners" %}
+
+### **12. RUSBoostClassifier \(Bayesian Optimization\) - AUC 0.8741**
+
+{% embed url="https://github.com/ML-Challenge/week6-final-project/blob/master/12.Inspired%20-%20RUSBoostClassifier%20\(Bayesian%20Optimization\)%20-%20AUC%200.8741.ipynb" caption="Preprocessing step inspired from the winners" %}
+
+\*\*\*\*
+
 \*\*\*\*
 
   
