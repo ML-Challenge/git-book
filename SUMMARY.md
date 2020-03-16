@@ -38,6 +38,7 @@
 ## 6.Final project <a id="final-project"></a>
 
 * [Introduction](final-project/intro.md)
+* [Solution](final-project/solution.md)
 
 ## \(Optional\) Mathematics for Machine Learning <a id="math-stuff"></a>
 
