@@ -40,7 +40,7 @@ description: Here are our experiments
 
 {% embed url="https://github.com/ML-Challenge/week6-final-project/blob/master/9.Inspired%20-%20DeepLearning%20with%20fast.ai%20Tabular.ipynb" caption="Preprocessing step inspired from the winners" %}
 
-### **10. XGBoostClassifier \(GridSearch Optimization\) - AUC 0.8803.ipynb** <a id="blob-path"></a>
+### **10. XGBoostClassifier \(GridSearch Optimization\) - AUC 0.8803** <a id="blob-path"></a>
 
 {% embed url="https://github.com/ML-Challenge/week6-final-project/blob/master/10.Inspired%20-%20XGBoostClassifier%20\(GridSearch%20Optimization\)%20-%20AUC%200.8803.ipynb" caption="Preprocessing step inspired from the winners" %}
 
